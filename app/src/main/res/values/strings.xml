@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DesafioNativapp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mario Feles dos Santos Junior</string>
+    <string name="nav_header_subtitle">mario_feles@live.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="pessoas">Pessoas</string>
+    <string name="organizacao">Organização</string>
+    <string name="negocio">Negócio</string>
+    <string name="atividades">Atividades</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="endereco">Endereço</string>
+    <string name="titulo">Titulo</string>
+    <string name="descricao">Descrição</string>
+    <string name="valor">Valor</string>
+    <string name="data">Data</string>
+    <string name="estado">Estado</string>
+    <string name="tipo">Tipo</string>
+    <string name="hora">Hora</string>
+</resources>
