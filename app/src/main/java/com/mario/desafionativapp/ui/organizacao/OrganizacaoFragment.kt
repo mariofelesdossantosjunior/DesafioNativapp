@@ -21,6 +21,9 @@ class OrganizacaoFragment : Fragment() {
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
+
+        activity?.title = getString(R.string.organizacao)
+
         return inflater.inflate(R.layout.organizacao_fragment, container, false)
     }
 

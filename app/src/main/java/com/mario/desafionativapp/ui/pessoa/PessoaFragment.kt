@@ -20,6 +20,9 @@ class PessoaFragment : Fragment() {
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
+
+        activity?.title = getString(R.string.pessoas)
+
         return inflater.inflate(R.layout.pessoa_fragment, container, false)
     }
 
